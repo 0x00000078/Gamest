@@ -1,0 +1,6 @@
+framework module Pods_Gamest {
+  umbrella header "Pods-Gamest-umbrella.h"
+
+  export *
+  module * { export * }
+}
